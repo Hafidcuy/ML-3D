@@ -4,7 +4,8 @@ Game papan 3D untuk belajar **Machine Learning** sambil bermain, terinspirasi Pu
 
 ## Fitur
 
-- 🗺️ **4 map 3D**: Pulau Data, Kota Sirkuit, Puncak Awan, Stasiun Antariksa — bercabang, ada jalan pintas & petak Gravitasi
+- 🗺️ **5 map 3D**: Pulau Data, Kota Sirkuit, Puncak Awan, Stasiun Antariksa, Kedalaman Data (bawah laut, Petak Arus & Kraken Data) — bercabang, ada jalan pintas & petak Gravitasi
+- 🏆 **Mode Turnamen** (bracket gugur 8 peserta, Piala + lencana "Juara Turnamen"), **Tantangan Teman** via Kode Tantangan salin-tempel, **Kotak Misteri Harian** + tonggak streak, **Robot Pendamping**, minigame Arena **Susun Pipeline**, **Kartu Profil PNG** unduhan, warna robot bebas + 3 topi baru
 - 📚 **24 materi ML** yang mudah dipahami + Ensiklopedia kartu koleksi & simulasi interaktif (regresi, decision tree, neural network)
 - 👥 **2–4 pemain**: offline 1 perangkat + bot, atau **online beda perangkat** dengan room berkode 6 karakter & Room Master
 - 🎲 Gameplay ala Pummel Party: dadu 0–9, sistem HP, 5 item sabotase, petak Reaper/Bank/Trofi/Jackpot/Toko/Duel, Penjaga Kota, Raid Boss kooperatif
